@@ -12,15 +12,15 @@
         "./testdata/Telugu/telugu33.mat"
     ],
     "Accent": [
+        "Marathi",
+        "Telugu",
+        "Telugu",
+        "Marathi",
         "Telugu",
         "Telugu",
         "Telugu",
+        "Assam",
         "Telugu",
-        "Telugu",
-        "Telugu",
-        "Telugu",
-        "Telugu",
-        "Telugu",
-        "Telugu"
+        "Marathi"
     ]
 }
