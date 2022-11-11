@@ -4,7 +4,7 @@ LID using prosodic features (syllable level)
 This projects implements LID(Language Identification) using solely prosody features on the syllable level.
 Steps to run the code:
 
-1. Take the dataset and convert .wav to .mat using prosody.m
+1. Take the dataset and convert .wav to .mat using prosody.m (You will need to change the name of mat file manually)
 2. Place the code into the below folder structure
 3. Run the code using GMM.ipynb
 
