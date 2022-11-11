@@ -1,26 +1,26 @@
 {
     "Test_i": [
-        "./testdata/Telugu/telugu38.mat",
-        "./testdata/Telugu/telugu35.mat",
-        "./testdata/Telugu/telugu32.mat",
-        "./testdata/Telugu/telugu40.mat",
-        "./testdata/Telugu/telugu31.mat",
-        "./testdata/Telugu/telugu36.mat",
-        "./testdata/Telugu/telugu39.mat",
-        "./testdata/Telugu/telugu41.mat",
-        "./testdata/Telugu/telugu34.mat",
-        "./testdata/Telugu/telugu33.mat"
+        "./testdata/manipur/manipurf6.mat",
+        "./testdata/manipur/manipurf7.mat",
+        "./testdata/manipur/manipurf2.mat",
+        "./testdata/manipur/manipurf1.mat",
+        "./testdata/manipur/manipurf8.mat",
+        "./testdata/manipur/manipurf9.mat",
+        "./testdata/manipur/manipurf10.mat",
+        "./testdata/manipur/manipurf3.mat",
+        "./testdata/manipur/manipurf11.mat",
+        "./testdata/manipur/manipurf5.mat"
     ],
     "Accent": [
-        "Marathi",
-        "Telugu",
-        "Telugu",
-        "Marathi",
-        "Telugu",
-        "Telugu",
-        "Telugu",
-        "Assam",
-        "Telugu",
-        "Marathi"
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur"
     ]
 }

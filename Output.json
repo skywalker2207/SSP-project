@@ -1,0 +1,26 @@
+{
+    "Test_i": [
+        "./testdata/marathi/marathif7.mat",
+        "./testdata/marathi/marathif1.mat",
+        "./testdata/marathi/marathif6.mat",
+        "./testdata/marathi/marathif2.mat",
+        "./testdata/marathi/marathif5.mat",
+        "./testdata/marathi/marathif4.mat",
+        "./testdata/marathi/marathif3.mat",
+        "./testdata/marathi/marathif8.mat",
+        "./testdata/marathi/marathif9.mat",
+        "./testdata/marathi/marathif10.mat"
+    ],
+    "Accent": [
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur",
+        "odia",
+        "bengali",
+        "manipur",
+        "manipur",
+        "manipur",
+        "manipur"
+    ]
+}
